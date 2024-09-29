@@ -1,0 +1,7 @@
+*.log
+*.tgz
+*.tmp
+node_modules
+samples
+scripts
+src
